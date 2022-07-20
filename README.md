@@ -2,7 +2,7 @@
 <h3 align="center">A creative and passionate web developer from Tunisia</h3>
 
 <p align="center"> 
-   <a href="https://discord.gg/2nyUDg27" target="blank"><img src="https://img.shields.io/discord/846333696473825291?style=for-the-badge" alt="2nyUDg27" /></a> 
+   <a href="https://discord.gg/XeUmqxsW" target="blank"><img src="https://img.shields.io/discord/846333696473825291?style=for-the-badge" alt="XeUmqxsW" /></a> 
   <a href="https://twitter.com/__n3ko" target="blank"><img src="https://img.shields.io/twitter/follow/__n3ko?logo=twitter&style=for-the-badge" alt="__n3ko" /></a> </p>
 
 - 🔭 I’m currently working on [Private Project]
