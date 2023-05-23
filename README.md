@@ -2,16 +2,12 @@
 <h3 align="center">A creative and passionate web developer from Tunisia</h3>
 
 <p align="center"> 
-   <a href="https://discord.gg/XeUmqxsW" target="blank"><img src="https://img.shields.io/discord/846333696473825291?style=for-the-badge" alt="XeUmqxsW" /></a> 
-  <a href="https://twitter.com/__n3ko" target="blank"><img src="https://img.shields.io/twitter/follow/__n3ko?logo=twitter&style=for-the-badge" alt="__n3ko" /></a> </p>
 
 - 🔭 I’m currently working on [Private Project]
 
-- 👯 I’m looking to collaborate on [tunisie devs](tunisie-devs.com)
+- 🌱 I’m currently learning **NestJS , Nuxt.JS 3, Next.JS 13**
 
-- 🌱 I’m currently learning **react native, flutter**
-
-- 💬 Ask me about **php , javascript, lua, c++, c#, unity3d, vuejs, electonjs**
+- 💬 Ask me about **PHP , Javascript, Lua, L++, C#, Unity3D, VueJS, ElectonJS**
 
 - 📫 How to reach me **kamisama953@gmail.com**
 
