@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP , Javascript, Lua, L++, C#, Unity3D, VueJS, ElectonJS**
 
-- 📫 How to reach me **kamisama953@gmail.com**
+- 📫 How to reach me **jeybekcoding@gmail.com**
 
 <h3 align="left">Latest Projects:</h3>
 
